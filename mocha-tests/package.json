@@ -1,0 +1,14 @@
+{
+  "name": "mocha-tests",
+  "version": "1.0.0",
+  "description": "basic test cases using mocha ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "reddynitin3@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
