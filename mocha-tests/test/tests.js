@@ -6,3 +6,9 @@ describe('Array', () => {
     });
   });
 });
+
+describe('Addition of two numbers', () => {
+	it('should return 3 when the 1 and 2 are added', () => {
+		assert.equal(3, 1 + 2);
+	});
+});
